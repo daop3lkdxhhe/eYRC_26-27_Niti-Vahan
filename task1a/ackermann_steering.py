@@ -18,13 +18,15 @@
 *
 *****************************************************************************************
 '''
-
-# Team ID:          < Team-ID >
-# Author List:      < Names of the team members who worked on this file, comma separated >
-# Filename:         ackermann_steering.py
-# Functions:        ackermann_wheel_angles
-# Global variables: < List any global variables you add, "None" if you add none >
-
+conda activate NV_<Team-ID eYRC-1853>
+cd ~/eYRC_26-27_Niti-Vahan/task1a
+    . DIPANKAR
+    . pulok 
+    . Avijit 
+    . Ritika 
+python ackermann_steering.py
+# Functions:         ackermann_wheel_angles
+# Global variables:  None
 
 ####################### IMPORT MODULES #######################
 import math
